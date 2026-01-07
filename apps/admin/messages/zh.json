@@ -1,0 +1,16 @@
+{
+  "loginTitle": "管理员登录",
+  "loginButton": "登录",
+  "navDashboard": "仪表盘",
+  "navOrders": "订单",
+  "navCoupons": "优惠券",
+  "navCampaigns": "活动",
+  "dashboardTitle": "仪表盘概览",
+  "dashboardCtaButton": "查看报表",
+  "ordersTitle": "订单",
+  "ordersReviewButton": "审核订单",
+  "couponsTitle": "优惠券",
+  "couponsCreateButton": "创建优惠券",
+  "campaignsTitle": "活动",
+  "campaignsLaunchButton": "发布活动"
+}

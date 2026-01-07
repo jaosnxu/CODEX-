@@ -1,0 +1,14 @@
+{
+  "homeTitle": "会员中心",
+  "homeSubtitle": "一站式管理你的会员服务",
+  "homeCtaButton": "查看权益",
+  "navOrders": "订单",
+  "navInsights": "洞察",
+  "navSettings": "设置",
+  "ordersTitle": "我的订单",
+  "ordersManageButton": "管理订单",
+  "insightsTitle": "数据洞察",
+  "insightsRefreshButton": "刷新洞察",
+  "settingsTitle": "设置",
+  "settingsSaveButton": "保存更改"
+}

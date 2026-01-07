@@ -1,0 +1,23 @@
+{
+  "homeTitle": "Mall",
+  "homeSubtitle": "Everything you love, all in one place",
+  "homeShopButton": "Start shopping",
+  "navCatalog": "Catalog",
+  "navCart": "Cart",
+  "navOrders": "Orders",
+  "navMe": "Me",
+  "productTitle": "Product Details",
+  "productAddButton": "Add to cart",
+  "cartTitle": "Shopping Cart",
+  "cartCheckoutButton": "Proceed to checkout",
+  "checkoutTitle": "Checkout",
+  "checkoutPayButton": "Pay now",
+  "payTitle": "Payment",
+  "payFinishButton": "View order",
+  "ordersTitle": "Order History",
+  "ordersDetailButton": "View details",
+  "orderDetailTitle": "Order Details",
+  "orderDetailBackButton": "Back to orders",
+  "meTitle": "My Account",
+  "meProfileButton": "Manage account"
+}

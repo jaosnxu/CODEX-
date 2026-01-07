@@ -1,0 +1,16 @@
+{
+  "loginTitle": "Admin Login",
+  "loginButton": "Sign in",
+  "navDashboard": "Dashboard",
+  "navOrders": "Orders",
+  "navCoupons": "Coupons",
+  "navCampaigns": "Campaigns",
+  "dashboardTitle": "Dashboard Overview",
+  "dashboardCtaButton": "View reports",
+  "ordersTitle": "Orders",
+  "ordersReviewButton": "Review orders",
+  "couponsTitle": "Coupons",
+  "couponsCreateButton": "Create coupon",
+  "campaignsTitle": "Campaigns",
+  "campaignsLaunchButton": "Launch campaign"
+}
