@@ -1,0 +1,14 @@
+{
+  "homeTitle": "Member Center",
+  "homeSubtitle": "Manage your membership in one place",
+  "homeCtaButton": "View benefits",
+  "navOrders": "Orders",
+  "navInsights": "Insights",
+  "navSettings": "Settings",
+  "ordersTitle": "My Orders",
+  "ordersManageButton": "Manage orders",
+  "insightsTitle": "Insights",
+  "insightsRefreshButton": "Refresh insights",
+  "settingsTitle": "Settings",
+  "settingsSaveButton": "Save changes"
+}

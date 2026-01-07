@@ -1,0 +1,23 @@
+{
+  "homeTitle": "Маркетплейс",
+  "homeSubtitle": "Все, что вам нужно, в одном месте",
+  "homeShopButton": "Начать покупки",
+  "navCatalog": "Каталог",
+  "navCart": "Корзина",
+  "navOrders": "Заказы",
+  "navMe": "Профиль",
+  "productTitle": "Детали товара",
+  "productAddButton": "Добавить в корзину",
+  "cartTitle": "Корзина",
+  "cartCheckoutButton": "Перейти к оплате",
+  "checkoutTitle": "Оформление заказа",
+  "checkoutPayButton": "Оплатить",
+  "payTitle": "Оплата",
+  "payFinishButton": "Посмотреть заказ",
+  "ordersTitle": "История заказов",
+  "ordersDetailButton": "Подробнее",
+  "orderDetailTitle": "Детали заказа",
+  "orderDetailBackButton": "Назад к заказам",
+  "meTitle": "Мой аккаунт",
+  "meProfileButton": "Управлять аккаунтом"
+}

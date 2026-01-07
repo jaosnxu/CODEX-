@@ -1,0 +1,16 @@
+{
+  "loginTitle": "Вход администратора",
+  "loginButton": "Войти",
+  "navDashboard": "Панель",
+  "navOrders": "Заказы",
+  "navCoupons": "Купоны",
+  "navCampaigns": "Кампании",
+  "dashboardTitle": "Обзор панели",
+  "dashboardCtaButton": "Посмотреть отчеты",
+  "ordersTitle": "Заказы",
+  "ordersReviewButton": "Проверить заказы",
+  "couponsTitle": "Купоны",
+  "couponsCreateButton": "Создать купон",
+  "campaignsTitle": "Кампании",
+  "campaignsLaunchButton": "Запустить кампанию"
+}

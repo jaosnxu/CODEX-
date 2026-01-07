@@ -1,0 +1,23 @@
+{
+  "homeTitle": "商城",
+  "homeSubtitle": "你喜爱的商品一站购齐",
+  "homeShopButton": "开始购物",
+  "navCatalog": "商品",
+  "navCart": "购物车",
+  "navOrders": "订单",
+  "navMe": "我的",
+  "productTitle": "商品详情",
+  "productAddButton": "加入购物车",
+  "cartTitle": "购物车",
+  "cartCheckoutButton": "去结算",
+  "checkoutTitle": "结算",
+  "checkoutPayButton": "立即支付",
+  "payTitle": "支付",
+  "payFinishButton": "查看订单",
+  "ordersTitle": "订单记录",
+  "ordersDetailButton": "查看详情",
+  "orderDetailTitle": "订单详情",
+  "orderDetailBackButton": "返回订单",
+  "meTitle": "我的账户",
+  "meProfileButton": "管理账户"
+}
